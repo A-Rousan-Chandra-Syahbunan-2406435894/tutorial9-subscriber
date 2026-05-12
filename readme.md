@@ -1,5 +1,5 @@
 What is amqp? 
-Jawab
+Jawab:
 AMQP (Advanced Message Queuing Protocol) adalah protokol standar yang digunakan oleh message broker (seperti RabbitMQ) untuk menerima, menyimpan, dan meneruskan pesan antar sistem.
 
 What does guest:guest@localhost:5672 mean? 
