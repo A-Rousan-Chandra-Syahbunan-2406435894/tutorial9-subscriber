@@ -15,3 +15,5 @@ localhost = Alamat server (karena RabbitMQ nanti akan dijalankan di laptopmu sen
 Mengapa antrian di RabbitMQ turun lebih cepat saat ada 3 subscriber?
 
 Karena beban kerja dibagi secara Round Robin ke beberapa subscriber, sehingga total throughput sistem meningkat
+
+![alt text](image.png)
